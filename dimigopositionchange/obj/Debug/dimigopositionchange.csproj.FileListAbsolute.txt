@@ -1,0 +1,17 @@
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\bin\Debug\dimigopositionchange.exe.config
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\bin\Debug\dimigopositionchange.exe
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\bin\Debug\dimigopositionchange.pdb
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\dimigopositionchange.csprojResolveAssemblyReference.cache
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\MainWindow.g.cs
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\UserControl1.g.cs
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\App.g.cs
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\dimigopositionchange_MarkupCompile.cache
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\dimigopositionchange_MarkupCompile.lref
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\MainWindow.baml
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\UserControl1.baml
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\dimigopositionchange.g.resources
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\dimigopositionchange.Properties.Resources.resources
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\dimigopositionchange.csproj.GenerateResource.Cache
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\dimigopositionchange.exe
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\dimigopositionchange.pdb
+c:\users\kid\documents\visual studio 2017\Projects\dimigopositionchange\dimigopositionchange\obj\Debug\GeneratedInternalTypeHelper.g.cs
